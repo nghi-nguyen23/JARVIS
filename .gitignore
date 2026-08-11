@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+*.npy
+*.keras
+*.h5
+*.task
