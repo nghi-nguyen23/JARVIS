@@ -4,6 +4,22 @@ JARVIS is a computer vision project inspired by Iron Man’s AI assistant. The p
 
 The system uses MediaPipe hand landmarks, a TensorFlow/Keras Temporal Convolutional Network model, and OpenCV webcam input to recognize gestures such as swiping, scrolling, zooming, and opening tabs.
 
+### Repo Structure
+```text
+jarvis-demo/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── src/
+│   └── jarvis_prototype.py
+├── notebooks/
+│   ├── tcn_training.ipynb
+│   └── webcam_inference_testing.ipynb
+├── docs/
+│   └── project_summary.md
+└── models/
+    └── README.md
+
 ## Project Overview
 
 ### Goal:
