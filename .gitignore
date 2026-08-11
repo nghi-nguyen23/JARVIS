@@ -5,4 +5,10 @@ __pycache__/
 *.npy
 *.keras
 *.h5
+*.task*.npy
+*.keras
+*.h5
 *.task
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
