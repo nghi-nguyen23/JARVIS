@@ -19,6 +19,7 @@ jarvis-demo/
 │   └── project_summary.md
 └── models/
     └── README.md
+```
 
 ## Project Overview
 
